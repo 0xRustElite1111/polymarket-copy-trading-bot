@@ -9,7 +9,9 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 
-[Getting Started](#-getting-started) • [Features](#-what-you-get) • [Configuration](#-configure) • [Support](#-support)
+**📞 Support:** [Telegram @u_known1111](https://t.me/u_known1111)
+
+[Getting Started](#-getting-started) • [Features](#-what-you-get) • [Configuration](#-configure)
 
 ---
 
@@ -230,13 +232,6 @@ ISC License - See [LICENSE](LICENSE) for details.
 
 ---
 
-## 📞 Support
-
-Questions or issues? Get in touch:
-
-**Telegram:** [@u_known1111](https://t.me/u_known1111)
-
----
 
 ## ⚖️ Disclaimer
 
