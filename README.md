@@ -9,7 +9,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 
-**📞 Support:** [Telegram @u_known1111](https://t.me/u_known1111)
+**📞 Support:** [Telegram S.E.I](https://t.me/sei_dev)
 
 [Getting Started](#-getting-started) • [Features](#-what-you-get) • [Configuration](#-configure)
 
